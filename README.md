@@ -1,13 +1,19 @@
-# Calculator Project
+Calculator Project
 
-Ye ek simple calculator hai jo HTML, CSS aur JavaScript se banaya gaya hai.
+This is a simple calculator built using HTML, CSS, and JavaScript.
 
-## Features
-- Basic operations: +, -, *, /
-- Percentage (%)
-- Clear and Delete buttons
-- Responsive design
+Features
 
-## Kaise chalayein
-1. Code ko clone ya download karo.
-2. `index.html` file browser me open karo.
+Basic operations: +, -, *, /
+
+Percentage (%)
+
+Clear and Delete buttons
+
+Responsive design
+
+How to Run
+
+Clone or download the repository.
+
+Open the index.html file in your browser.
